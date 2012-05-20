@@ -17,8 +17,8 @@
 
 
 # Vi IMproved
-
-
+Eine Präsentation über VIM in VIM
+    von Franz Greiling
 
 
 

@@ -4,9 +4,8 @@
 * Was ist Vim?
 
 * Geschichte
-    - Vorgeschichte: __vi__
-    - Geschichte:    __vim, Bram Moolenaar__
-    - Heute
+    - Vorgeschichte: `vi`
+    - Geschichte:    `vim` 
 
 * Features
     - Modaler Aufbau: Insert / Normal / Visual
@@ -16,11 +15,12 @@
 * Organisation und Development
     - Lizenz 
     - Entwicklung
-    - Community
+
+
 
 
 
 
 -----
 prev: `start.md`
-next: `whatis.md`
+next: `whatis/1.md`
