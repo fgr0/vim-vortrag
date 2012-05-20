@@ -5,6 +5,7 @@
 * Erweiterbarkeit durch Scripte
 * Mehrere Buffer, Tabs und Splits
 * Syntax Highlighting
+* Persistentes Multi-Undo
 * Rechtschreibprüfung
 * ... 
 
@@ -13,7 +14,6 @@
 
 * Integrierte, riesige Dokumentation zu jedem Befehl
     - 128599 Zeilen in 132 Dateien
-
 
 
 
